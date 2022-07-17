@@ -1,1 +1,1 @@
-# My first ImageEditor
+# Tamagashi ImageEditor
